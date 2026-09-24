@@ -1,0 +1,12 @@
+{
+  "name": "kambala-enterprise",
+  "version": "1.0.0",
+  "description": "KAMBALA Enterprise construction materials shopping app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
